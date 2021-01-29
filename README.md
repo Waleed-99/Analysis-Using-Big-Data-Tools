@@ -36,7 +36,7 @@ The following link was used directly to install MS SQL Server to communicate wit
 - Determined how to import the CSV into Hive using a Connection with Excel and SQL commands.
 
 ## Link to Weekly Reports
-- https://l.messenger.com/l.php?u=https%3A%2F%2Fgithub.com%2FWaleed-99%2FAnalysis-Using-Big-Data-Tools%2Ftree%2Fmain%2FWeekly%2520Reports&h=AT1k5k10bIxurs9QOICwdjcDkj8YlpCTaJRkFb2FrDnsTbVZkfH1ffy6Mi2xyYz-GHo1VNiwU08lbeueqxMVa2Yp84T1ZSfStlQsO3BFoZTvtPiq4oh_UwmNv8hJ6Y0rnY3rfg
+- https://github.com/Waleed-99/Analysis-Using-Big-Data-Tools/tree/main/Weekly%20Reports
 
 ## License
 MIT License
