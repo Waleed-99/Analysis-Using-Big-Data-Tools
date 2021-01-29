@@ -4,7 +4,7 @@ Professor Sukhjit Singh Sehra and Professor Safaa Bedawi
 
 Wilfrid Laurier University
 
-UPDATED: Jan 29th, 2021
+Updated: Jan 29th, 2021
 
 ## Motivation
 The motivation for this directed project came through the interest of both Zohaib and myself in the Big Data Analytics field. We have had a fascination on what can be done in the real world through the use of various Big Data technologies. Being Computer Science majors, we have experienced how the demand for Analytics has sky rocketed in the past couple of years. As driven-students, individuals, and professionals, we wanted to learn the basic fundementals of Big Data Technologies and how they can be incorported into this project to solve a real-world problem.
